@@ -6,7 +6,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 
 - 🔭 I’m currently working on transcriptomic and genomic data analysis in immune diseases and healthy individuals. 
 - 💬 Ask me about bioinformatics education
-- 📫 How to reach me: ecossnav@gmail.com / ecoss@liigh.unam.mx
+- 📫 How to reach me: ecoss@liigh.unam.mx
 - 😄 Pronouns: She/her
 
 ### Education
