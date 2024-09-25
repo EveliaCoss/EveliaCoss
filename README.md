@@ -18,7 +18,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 
 <a href="https://r-ladies-morelia.github.io/" target="blank">
   <img src="https://r-ladies-morelia.github.io/img/logo-rladies.jpeg" alt="RladiesMorelia"
-      width="70" height="50" /> </a>
+      width="100" height="50" /> </a>
 <a href="https://carpentries.org/index.html" target="blank">
   <img src="https://carpentries.org/assets/img/TheCarpentries.svg" alt="TheCarpentries"
       width="70" height="50" /> </a>
@@ -27,10 +27,10 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
       width="100" height="50" /> </a>
 <a href="https://lupusrgmx.liigh.unam.mx/quienes-somos.html" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
-      width="70" height="50" /> </a>
+      width="100" height="50" /> </a>
 <a href="https://x.com/riabionet" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/riabio_logo.jpg" alt="Riabio"
-      width="70" height="50" /> </a>
+      width="50" height="50" /> </a>
 <a href="https://rsg-mexico.iscbsc.org/" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/rsgMexico.jpeg" alt="ISCB-RSGMexico"
       width="70" height="50" /> </a>
