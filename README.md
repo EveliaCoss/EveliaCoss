@@ -33,7 +33,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
       width="50" height="50" /> </a>
 <a href="https://rsg-mexico.iscbsc.org/" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/rsgMexico.jpeg" alt="ISCB-RSGMexico"
-      width="100" height="50" /> </a>
+      width="50" height="50" /> </a>
 <a href="https://x.com/iscbwikiteam" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/iscb_wikipedia.jpg" alt="ISCB-WikipediaComm"
       width="50" height="50" /> </a>
