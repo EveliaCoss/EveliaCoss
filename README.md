@@ -18,13 +18,13 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 
 <a href="https://r-ladies-morelia.github.io/" target="blank">
   <img src="https://r-ladies-morelia.github.io/img/logo-rladies.jpeg" alt="RladiesMorelia"
-      width="70" height="70" /> </a>
+      width="70" height="50" /> </a>
 <a href="https://carpentries.org/index.html" target="blank">
   <img src="https://carpentries.org/assets/img/TheCarpentries.svg" alt="TheCarpentries"
-      width="70" height="70" /> </a>
-<a href="https://carpentries.org/index.html" target="blank">
-  <img src="https://carpentries.org/assets/img/TheCarpentries.svg" alt="TheCarpentries"
-      width="70" height="70" /> </a>
+      width="70" height="50" /> </a>
+<a href="https://jaguar.liigh.unam.mx/" target="blank">
+  <img src="https://jaguar.liigh.unam.mx/images/00-logo1.png" alt="JAGUAR"
+      width="70" height="50" /> </a>
 
 ### Lenguajes y Herramientas
 <p align="left"> <img
