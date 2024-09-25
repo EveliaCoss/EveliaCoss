@@ -14,6 +14,14 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 - Postdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present
 - PhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023
 
+### Projects
+<a href="https://jaguar.liigh.unam.mx/" target="blank">
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/Jaguar_logo.png" alt="JAGUAR"
+      width="100" height="50" /> </a>
+<a href="https://lupusrgmx.liigh.unam.mx/quienes-somos.html" target="blank">
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
+      width="100" height="50" /> </a>
+      
 ### Member
 
 <a href="https://r-ladies-morelia.github.io/" target="blank">
@@ -22,12 +30,6 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 <a href="https://carpentries.org/index.html" target="blank">
   <img src="https://carpentries.org/assets/img/TheCarpentries.svg" alt="TheCarpentries"
       width="70" height="50" /> </a>
-<a href="https://jaguar.liigh.unam.mx/" target="blank">
-  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/Jaguar_logo.png" alt="JAGUAR"
-      width="100" height="50" /> </a>
-<a href="https://lupusrgmx.liigh.unam.mx/quienes-somos.html" target="blank">
-  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
-      width="100" height="50" /> </a>
 <a href="https://x.com/riabionet" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/riabio_logo.jpg" alt="Riabio"
       width="50" height="50" /> </a>
