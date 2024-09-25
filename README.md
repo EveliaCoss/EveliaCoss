@@ -24,7 +24,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
       width="70" height="50" /> </a>
 <a href="https://jaguar.liigh.unam.mx/" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/Jaguar_logo.png" alt="JAGUAR"
-      width="70" height="50" /> </a>
+      width="50" height="50" /> </a>
 <a href="https://lupusrgmx.liigh.unam.mx/quienes-somos.html" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
       width="70" height="50" /> </a>
