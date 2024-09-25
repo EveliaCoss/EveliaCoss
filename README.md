@@ -23,9 +23,21 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
   <img src="https://carpentries.org/assets/img/TheCarpentries.svg" alt="TheCarpentries"
       width="70" height="50" /> </a>
 <a href="https://jaguar.liigh.unam.mx/" target="blank">
-  <img src="https://jaguar.liigh.unam.mx/images/00-logo1.png" alt="JAGUAR"
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/Jaguar_logo.png" alt="JAGUAR"
       width="70" height="50" /> </a>
-
+<a href="https://lupusrgmx.liigh.unam.mx/quienes-somos.html" target="blank">
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
+      width="70" height="50" /> </a>
+<a href="https://x.com/riabionet" target="blank">
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/riabio_logo.jpg" alt="Riabio"
+      width="70" height="50" /> </a>
+<a href="https://rsg-mexico.iscbsc.org/" target="blank">
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/rsgMexico.jpeg" alt="ISCB-RSGMexico"
+      width="70" height="50" /> </a>
+<a href="https://x.com/iscbwikiteam" target="blank">
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/iscb_wikipedia.jpg" alt="ISCB-WikipediaComm"
+      width="70" height="50" /> </a>
+      
 ### Lenguajes y Herramientas
 <p align="left"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
