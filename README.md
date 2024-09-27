@@ -21,7 +21,15 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 <a href="https://lupusrgmx.liigh.unam.mx/quienes-somos.html" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
       width="100" height="50" /> </a>
-      
+
+### Repository Contributions:
+
+- Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) | Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
+- [Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @Selene Fernandez-Valverde
+- [Workshop CDSB 2023: Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única](https://github.com/ComunidadBioInfo/cdsb2024) | Github [CDSB 2023](https://github.com/ComunidadBioInfo/cdsb2023)
+- Workshop CDSB 2024: Desarrollo de paqueterías de R/Bioconductor | Github [CDSB 2024](https://github.com/ComunidadBioInfo/cdsb2024)
+- Rladies-Morelia | Github [Rladies-Morelia](https://github.com/R-Ladies-Morelia) 
+
 ### Member
 
 <a href="https://r-ladies-morelia.github.io/" target="blank">
