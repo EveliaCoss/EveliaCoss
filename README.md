@@ -22,7 +22,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/lupus_logo.png" alt="LupusRGMX"
       width="100" height="50" /> </a>
 
-### Repository Contributions:
+### Repository Contributions
 
 - Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) | Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
 - [Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @Selene Fernandez-Valverde
