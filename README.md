@@ -28,7 +28,8 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 - [Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @Selene Fernandez-Valverde
 - [Workshop CDSB 2023: Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única](https://github.com/ComunidadBioInfo/cdsb2024) | Github [CDSB 2023](https://github.com/ComunidadBioInfo/cdsb2023)
 - Workshop CDSB 2024: Desarrollo de paqueterías de R/Bioconductor | Github [CDSB 2024](https://github.com/ComunidadBioInfo/cdsb2024)
-- Rladies-Morelia | Github [Rladies-Morelia](https://github.com/R-Ladies-Morelia) 
+- Rladies-Morelia | Github [Rladies-Morelia](https://github.com/R-Ladies-Morelia)
+- [Single Cell Genomic Approaches to Study the Immune System - Latin America & the Caribbean](https://github.com/WCSCourses/Single_Cell_Genomics_ImmuneSys_24) | Github [WCSCourses](https://github.com/WCSCourses) | [More information](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomic-approaches-to-study-the-immune-system-latin-america-the-caribbean-20241109/) 
 
 ### Member
 
