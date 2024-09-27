@@ -29,7 +29,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
       width="100" height="50" /> </a>
 <a href="https://comunidadbioinfo.github.io/es/#:~:text=%C2%A1Bienvenidos%20a%20la%20Comunidad%20de,la%20comunidad%20de%20software%20libre." target="blank">
   <img src="https://github.com/ComunidadBioInfo/cdsb2023/raw/main/img/logo.png" alt="CDSB"
-      width="100" height="50" /> </a>      
+      width="100" height="80" /> </a>      
 <a href="https://carpentries.org/index.html" target="blank">
   <img src="https://carpentries.org/assets/img/TheCarpentries.svg" alt="TheCarpentries"
       width="70" height="50" /> </a>
