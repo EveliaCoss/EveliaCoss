@@ -43,8 +43,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 - **RSG-Mexico**
   + Workshop Unix Shell (2024): [Webpage](https://iscb-rsg-mexico.github.io/2024-12-10-Workshop-Bash/) | [Tutorial](https://iscb-rsg-mexico.github.io/Workshop_Bash2024/) | [Github](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2024)
 
-
-### Repository Contributions
+### Repository Contributions 📌
 
 - **Plants&Python:** [Webpage](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html)  | [Github](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
 - **Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana:** [paper](https://pubmed.ncbi.nlm.nih.gov/35982083/) | [Github](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @Selene Fernandez-Valverde
@@ -65,11 +64,11 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
   + Data Analysis - Python, Bash and GIT (2024): [Webpage](https://miguel-mx.github.io/2024-01-24-ccm-unam-swc/)
   + Workshop Unix Shell (2024): [Webpage](https://iscb-rsg-mexico.github.io/2024-12-10-Workshop-Bash/) 
 
-### Reprohack 
+### Reprohack 🚀
 
-- *Historical contingency drives compensatory evolution and rare reversal of phage resistance*: [Articulo](https://academic.oup.com/mbe/article/39/9/msac182/6673247), [Webpage](https://r-ladies-morelia.github.io/Reprohack2024/Grupo2/docs/tema1.html), [Github](https://github.com/R-Ladies-Morelia/Reprohack2024/tree/main/Grupo2)| Puntuación media de reproducibilidad: 9,0/10 | Número de revisoras: 8 
+- *Historical contingency drives compensatory evolution and rare reversal of phage resistance*: [Articulo](https://academic.oup.com/mbe/article/39/9/msac182/6673247), [Webpage](https://r-ladies-morelia.github.io/Reprohack2024/Grupo2/docs/tema1.html), [Github](https://github.com/R-Ladies-Morelia/Reprohack2024/tree/main/Grupo2) | Puntuación media de reproducibilidad: 9,0/10 | Número de revisoras: 8 
 
-### Member
+### Member 💜
 
 <a href="https://r-ladies-morelia.github.io/" target="blank">
   <img src="https://r-ladies-morelia.github.io/img/logo-rladies.jpeg" alt="RladiesMorelia"
@@ -90,7 +89,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/iscb_wikipedia.jpg" alt="ISCB-WikipediaComm"
       width="50" height="50" /> </a>
       
-### Lenguajes y Herramientas
+### Lenguajes y Herramientas 💙
 <p align="left"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
       alt="R" width="40" height="40" />
