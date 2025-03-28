@@ -77,7 +77,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
   <img src="https://github.com/ComunidadBioInfo/cdsb2023/raw/main/img/logo.png" alt="CDSB"
       width="170" height="50" /> </a>      
 <a href="https://carpentries.org/index.html" target="blank">
-  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/The_Carpentries_logo.png" alt="TheCarpentries"
+  <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/The_Carpentries_Logo.png" alt="TheCarpentries"
       width="70" height="50" /> </a>
 <a href="https://x.com/riabionet" target="blank">
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/riabio_logo.jpg" alt="Riabio"
