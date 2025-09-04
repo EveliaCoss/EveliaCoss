@@ -94,7 +94,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
   <img src="https://github.com/EveliaCoss/EveliaCoss/blob/main/icons/iscb_wikipedia.jpg" alt="ISCB-WikipediaComm"
       width="50" height="50" /> </a>
       
-### Lenguajes y Herramientas 💙
+### Tools 💙
 <p align="left"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
       alt="R" width="40" height="40" />
