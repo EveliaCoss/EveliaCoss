@@ -7,6 +7,11 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 - 📫 How to reach me: ecoss@liigh.unam.mx
 - 😄 Pronouns: She/her
 
+<div> 
+<img src="./zim.jpg" alt="invasorzim", align="right"
+      width="100" height="100" />
+</div>
+
 ### Education
 
 - Postdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present
