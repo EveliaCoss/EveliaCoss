@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Evelia Coss
+# Hi there 👋 I'm Evelia Coss
 
 <!--- Descripcion de Bioinfo ----->
 
@@ -7,7 +7,7 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 - 🔭 I’m currently working on transcriptomic and genomic data analysis in immune diseases and healthy individuals. 
 - 💬 Ask me about bioinformatics education
 - 📫 How to reach me: ecoss@liigh.unam.mx
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/her 💙
 
 <div> 
 <img src="./zim.jpg" alt="invasorzim", align="right"
