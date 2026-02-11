@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Evelia Coss
 
+<!--- Descripcion de Bioinfo ----->
+
 I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics. Founding member of [VieRnes de Bioinformatica en el LIIGH](https://viernesbioinformatica.github.io/) (bioinformatics fridays at @LIIGH-UNAM), [R-Ladies Morelia](https://r-ladies-morelia.github.io/) and [LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html).
 
 - 🔭 I’m currently working on transcriptomic and genomic data analysis in immune diseases and healthy individuals. 
