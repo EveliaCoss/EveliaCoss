@@ -12,6 +12,7 @@ I am interested in **gene regulation, lncRNAs, autoimmune disease, evolution and
 <div> 
 <img src="./zim.jpg" alt="invasorzim", align="right"
       width="100" height="100" />
+      
 </div>
 
 ### Education
