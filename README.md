@@ -17,7 +17,7 @@ I am interested in **gene regulation, lncRNAs, autoimmune disease, evolution and
 
 ### Education
 
-- Postdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present
+- Postdoctoral Fellowship | @LIIGH-UNAM |  February 2023 - Present
 - PhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023
 
 ### Projects
