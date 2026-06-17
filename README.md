@@ -2,9 +2,8 @@
 
 <!--- Descripcion de Bioinfo ----->
 
-I am interested in **gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics**. Founding member of [VieRnes de Bioinformatica en el LIIGH](https://viernesbioinformatica.github.io/) (bioinformatics fridays at @LIIGH-UNAM), [R-Ladies Morelia](https://r-ladies-morelia.github.io/) and [LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html).
+Academic researcher, consultant, and current team member at [uDocz](https://www.udocz.com/home), contributing to the development of accessible and innovative educational platforms. My research interests include **gene regulation, lncRNAs, autoimmune diseases, evolution, and bioinformatics**. I am a founding member of [VieRnes de Bioinformática](https://viernesbioinformatica.github.io/), [R-Ladies Morelia](https://r-ladies-morelia.github.io/) and [RSG-México](https://rsg-mexico.iscbsc.org/), actively promoting open science, reproducible research, and inclusive scientific communities.
 
-- 🔭 I’m currently working on transcriptomic and genomic data analysis in immune diseases and healthy individuals. 
 - 💬 Ask me about bioinformatics education
 - 📫 How to reach me: <ecossnav@gmail.com>
 - 😄 Pronouns: She/her 💙
